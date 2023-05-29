@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/obj/Debug/net7.0/build-gz/xBxD8Nly.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/obj/Debug/net7.0/scopedcss/bundle/Xcloud.UI.styles.css",
+      "PackagePath": "staticwebassets/Xcloud.UI.styles.css"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/tobyinickels/Documents/browser_Xcloud/Xcloud.UI/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Xcloud.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Xcloud.UI.props",
+      "PackagePath": "build\\Xcloud.UI.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Xcloud.UI.props",
+      "PackagePath": "buildMultiTargeting\\Xcloud.UI.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Xcloud.UI.props",
+      "PackagePath": "buildTransitive\\Xcloud.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
